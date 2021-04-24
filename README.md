@@ -22,7 +22,7 @@ This repository contains the following directories,
 
 ### Prerequisites to run the examples
 
-Prior to running these examples, make sure you have all the following are configured in the same AWS region and in the same AWS account.
+Prior to running these examples, make sure you have all the following components configured in the same AWS region and in the same AWS account.
 
 **Amazon ElastiCache clusters:**
 
